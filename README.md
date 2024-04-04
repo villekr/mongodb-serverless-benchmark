@@ -30,6 +30,6 @@ Network details:
 * From EC2 in eu-north-1 *MongoDB* was accessed via MongoDB Private Endpoint Service
 * From EC2 in eu-west-1 *MongoDB serverless* was accessed via MongoDB Private Endpoint Service
 
-See benchmark [code](mongo_benchmark.py)
+See benchmark [code](./mongodb_serverless_benchmark/mongo_benchmark.py)
 
 See benchmark [metrics](mongo_serverless_benchmark.ipynb).
