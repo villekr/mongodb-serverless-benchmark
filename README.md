@@ -33,4 +33,3 @@ Network details:
 See also:
 * Benchmark [code](./mongodb_serverless_benchmark/mongo_benchmark.py)
 * Benchmark [notebook](mongo_serverless_benchmark.ipynb)
-* Benchmark [html report](mongo_serverless_benchmark.html)
